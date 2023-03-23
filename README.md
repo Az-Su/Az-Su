@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Swift, UIKit, SwiftUI, Firebase,algorithms and data structures, Python, Django, Spring**
 
-- 📫 How to reach me **almaz.sailau@gmail.com**
+- 📫 How to reach me **almaz.saylau@gmail.com**
 
 - ⚡ Fun fact **I am a BeatBoxer😝**
 
